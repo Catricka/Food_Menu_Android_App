@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TheEatingApp</string>
+    <string name="logo">The App Logo</string>
+    <string-array name="mainListView">
+        <item>Coffee</item>
+        <item>Food</item>
+        <item>Dessert</item>
+    </string-array>
+</resources>
